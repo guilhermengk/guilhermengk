@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello! 👋
+### 🔍 Seja Bem-vindo(a) ao meu portfólio!🔎
+### 🔍 Welcome to my portfolio! 🔎
 
 <!--
 **guilhermengk/guilhermengk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
