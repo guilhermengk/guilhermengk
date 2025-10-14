@@ -61,10 +61,6 @@ I'm Guilherme Barbosa, a Full-Stack developer passionate about technology:
   <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devguilherme-b&theme=radical&layout=compact&hide_border=false" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devguilherme-b&theme=github-compact&hide_border=true" width="90%"/>
-</div>
-
 ---
 
 ## 📫 Contacts
